@@ -4,11 +4,11 @@ Data Structures and Algorithms
 Array
 -----
 * Implementation an array that supports dynamic expansion 
-![Python3 Implement : array_dynamic_append_implement.py](/root/os/DSAA/DataStructuresAndAlgorithms/python/array_dynamic_append_implement.py)
+[Python3 Implement : array_dynamic_append_implement.py](/root/os/DSAA/DataStructuresAndAlgorithms/python/array_dynamic_append_implement.py)
 * Implementation an ordered array of fixed size, support dynamic additions and deletions 
-![Python3 Implement: array_fixed_size_CURD_implement.py](/root/os/DSAA/DataStructuresAndAlgorithms/python/array_fixed_size_CURD_implement.py)
+[Python3 Implement: array_fixed_size_CURD_implement.py](/root/os/DSAA/DataStructuresAndAlgorithms/python/array_fixed_size_CURD_implement.py)
 * Implementation two ordered arrays into one ordered array. 
-![Python3 array_merge_sorted_implement.py](/root/os/DSAA/DataStructuresAndAlgorithms/python/array_merge_sorted_implement.py)
+[Python3 array_merge_sorted_implement.py](/root/os/DSAA/DataStructuresAndAlgorithms/python/array_merge_sorted_implement.py)
 
 Linked List
 -----------
